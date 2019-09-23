@@ -2,8 +2,8 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "University of Oslo"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "room 3508, Kristine Bonnevies Hus, Blindernveien 31, 0371 Oslo"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "R for Reproducible Scientific Analysis"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "University of Oslo, room 3508, Kristine Bonnevies Hus, Blindernveien 31, 0371 Oslo"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "no"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "59.938240,10.722040"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
